@@ -1,1 +1,0 @@
-import{e as a,_ as e}from"./loadApp-Dw3gCw9S.js";import{d as o,o as c,c as p,a0 as s}from"./index-DK6139vC.js";const t=o({name:"MapPage",__name:"map",setup(r){return(_,n)=>(c(),p(s(a)))}}),d=e(t,[["__scopeId","data-v-c480cd22"]]);export{d as default};
