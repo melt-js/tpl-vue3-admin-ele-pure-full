@@ -1,0 +1,1 @@
+import{d as a,_ as e}from"./loadApp-DeanpfLk.js";import{d as o,o as c,c as p,V as s}from"./index-BmbviclX.js";const t=o({name:"MapPage",__name:"map",setup(r){return(_,n)=>(c(),p(s(a)))}}),f=e(t,[["__scopeId","data-v-c480cd22"]]);export{f as default};
